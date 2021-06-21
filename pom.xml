@@ -10,7 +10,7 @@
   </parent>
 
   <artifactId>credentials-binding</artifactId>
-  <version>${revision}${changelist}</version>
+  <version>${revision}${changelist}-PYIEH-TEST</version>
   <packaging>hpi</packaging>
 
   <name>Credentials Binding Plugin</name>
